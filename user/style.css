@@ -1,0 +1,19 @@
+.card p {
+  margin-top: -10px;
+  margin-bottom: 1px;
+}
+
+.row .card:hover {
+  box-shadow: 2px 2px 2px(0, 0, 0, 0.8);
+  transform: scale(1.02);
+}
+
+.list-group-item:hover {
+  transition: all .03s ease-in-out;
+  background-color: rgb(53, 53, 53);
+  color: #fff;
+}
+
+.text-dark .text-decoration-none {
+  text-decoration: none;
+}
